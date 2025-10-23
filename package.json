@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "name": "async-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callback.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsuruIndrajith/Async-Js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsuruIndrajith/Async-Js/issues"
+  },
+  "homepage": "https://github.com/IsuruIndrajith/Async-Js#readme"
+}
